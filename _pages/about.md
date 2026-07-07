@@ -1,10 +1,7 @@
 ---
-layout: about
-title: "About"
 permalink: /
+title: "About me"
 author_profile: true
-widgets:
--type: toc
 redirect_from: 
   - /about/
   - /about.html
