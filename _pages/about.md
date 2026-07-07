@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a assistant professor in the Department of Mathematics at Lehigh University. I earned my PhD in Statistics from the University of Kentucky under the adviser, Dr. Solomon W. Harrar. My research lies at
+I am a assistant professor in the Department of Mathematics at Lehigh University. I earned my PhD in Statistics from the University of Kentucky under the adviser, Dr. Solomon W. Harrar. My research lies at 
 
 ## Research Interests
 * **Machine Learning:** Deep learning, spatio-temporal modeling, and computer vision.
