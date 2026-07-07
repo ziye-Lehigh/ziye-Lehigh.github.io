@@ -1,10 +1,10 @@
 ---
+layout: about
+title: "About"
 permalink: /
-title: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+widgets:
+-type: toc
 ---
 
 I am a assistant professor in the Department of Mathematics at Lehigh University. I earned my PhD in Statistics from the University of Kentucky under the adviser, Dr. Solomon W. Harrar. My research lies at 
